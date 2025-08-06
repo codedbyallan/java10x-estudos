@@ -1,0 +1,11 @@
+# Arquivos compilados Java
+*.class
+
+# Pasta do IntelliJ IDEA
+.idea/
+*.iml
+
+# Outras pastas temporárias
+out/
+target/
+bin/
