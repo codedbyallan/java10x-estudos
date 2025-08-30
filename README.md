@@ -5,7 +5,6 @@ Este repositório contém todos os desafios e projetos desenvolvidos ao longo do
 ## Estrutura
 
 - *src/*: Estudos e exercícios organizados por nível e tema.
-- *java10x-desafios/*: Projetos práticos com aplicação de POO, herança, polimorfismo e organização modular.
 
 ## Tecnologias e práticas utilizadas
 
